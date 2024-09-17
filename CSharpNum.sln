@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNum", "CSharpNum\CSharpNum.csproj", "{0E09E086-3933-4FBA-A3AC-DCDD71ECAA8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberGame", "GuessNumberGame\GuessNumberGame.csproj", "{453B9582-D326-4BEA-A4C4-77C045B9B89C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{AE7964C9-BE5E-458A-86AC-7CF4C83F0940}"
+	ProjectSection(SolutionItems) = preProject
+		SOLID.txt = SOLID.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E09E086-3933-4FBA-A3AC-DCDD71ECAA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E09E086-3933-4FBA-A3AC-DCDD71ECAA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E09E086-3933-4FBA-A3AC-DCDD71ECAA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E09E086-3933-4FBA-A3AC-DCDD71ECAA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453B9582-D326-4BEA-A4C4-77C045B9B89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453B9582-D326-4BEA-A4C4-77C045B9B89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453B9582-D326-4BEA-A4C4-77C045B9B89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453B9582-D326-4BEA-A4C4-77C045B9B89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526BBF8A-223A-4D2B-ADE3-8E2E41CAC263}
+	EndGlobalSection
+EndGlobal
